@@ -15,7 +15,7 @@ It's Micro Tech squad. 🛰
 
 ### Schedule
 
-| Date       | Presenter | Topic                                                  |
-| ---------- | --------- | ------------------------------------------------------ |
-| 2020-11-08 | KONY128   | Batch Processing - Google MapReduce, Hadoop, Spark&RDD |
-| 2020-11-11 | KONY128   | Chinese technical document specification               |
+| Date       | Presenter                                   | Topic                                                  |
+| ---------- | ------------------------------------------- | ------------------------------------------------------ |
+| 2020-11-08 | [KONY128](https://github.com/KONY128)       | Batch Processing - Google MapReduce, Hadoop, Spark&RDD |
+| 2020-11-11 | [linxuyalun](https://github.com/linxuyalun) | Kubernetes Architecture and Basics Operation           |
