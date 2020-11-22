@@ -15,8 +15,9 @@ It's Micro Tech squad. 🛰
 
 ### Schedule
 
-| Date       | Presenter                                                                           | Topic                                                  |
-| ---------- | ----------------------------------------------------------------------------------- | ------------------------------------------------------ |
-| 2020-11-08 | [KONY128](https://github.com/KONY128)                                               | Batch Processing - Google MapReduce, Hadoop, Spark&RDD |
-| 2020-11-11 | [linxuyalun](https://github.com/linxuyalun), [KONY128](https://github.com/KONY128)  | Kubernetes Architecture and Basics Operation           |
-| 2020-11-21 | [KONY128](https://github.com/KONY128)                                               | Micro-batch, Streaming and Serveless                   |
+| Date       | Presenter                                                    | Topic                                                  |
+| ---------- | ------------------------------------------------------------ | ------------------------------------------------------ |
+| 2020-11-08 | [KONY128](https://github.com/KONY128)                        | Batch Processing - Google MapReduce, Hadoop, Spark&RDD |
+| 2020-11-11 | [linxuyalun](https://github.com/linxuyalun), [KONY128](https://github.com/KONY128) | Kubernetes Architecture and Basics Operation           |
+| 2020-11-21 | [KONY128](https://github.com/KONY128)                        | Micro-batch, Streaming and Serveless                   |
+| 2020-11-26 | [KONY128](https://github.com/KONY128)                        | Technical documentation writing specifications         |
